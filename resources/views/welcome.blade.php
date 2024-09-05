@@ -163,7 +163,7 @@
                     </main>
 
                     <div>
-                        David brahyan larota pilco
+                        David brahyan larota pilco(CPP)
                     </div>
                     <div>
                         Bernard
@@ -171,6 +171,7 @@
                     <div>
                         rous
                     </div>
+                    <h1>Lenin :)</h1>
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </footer>
